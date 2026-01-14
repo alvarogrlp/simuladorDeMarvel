@@ -6,7 +6,7 @@
 
 ---
 
-## 🧩 Descripción del Propósito
+## Descripción del Propósito
 
 **MarvelSimu** es una aplicación interactiva construida con Java y JavaFX que permite a los usuarios experimentar combates estratégicos entre héroes y villanos del universo Marvel en escenarios icónicos. No es solo una simulación visual: se trata de un sistema con lógica de combate avanzada, animaciones dinámicas, soporte multilenguaje, gestión de usuarios y un enfoque modular que facilita la extensión del proyecto.
 
@@ -14,22 +14,22 @@ Está pensada tanto para fans del universo Marvel como para estudiantes que dese
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
-- 🧠 **Selección de personajes** con estadísticas y habilidades activas/pasivas únicas.
-- 🦾 **IA enemiga estratégica**, que toma decisiones basadas en lógica programada.
-- 🌍 **Escenarios únicos y temáticos** como Wakanda, Kamar-Taj, Titán o Tenerife.
-- ⚔️ **Sistema de combate por turnos** con ataques cuerpo a cuerpo, a distancia y habilidades especiales.
-- 🎭 **Animaciones de combate** personalizadas para cada tipo de acción.
-- 🧑‍💼 **Gestión de usuarios** con login, registro, recuperación y edición de perfil.
-- 🌓 **Modo claro y oscuro**, activable desde la interfaz.
-- 🌐 **Soporte multilenguaje**: español, inglés y francés.
-- 🧪 **Test unitarios** para modelos, servicios y utilidades.
-- 🖼️ **Diseño visual adaptado**, con CSS personalizado y pantallas dinámicas.
+-  **Selección de personajes** con estadísticas y habilidades activas/pasivas únicas.
+-  **IA enemiga estratégica**, que toma decisiones basadas en lógica programada.
+-  **Escenarios únicos y temáticos** como Wakanda, Kamar-Taj, Titán o Tenerife.
+-  **Sistema de combate por turnos** con ataques cuerpo a cuerpo, a distancia y habilidades especiales.
+-  **Animaciones de combate** personalizadas para cada tipo de acción.
+-  **Gestión de usuarios** con login, registro, recuperación y edición de perfil.
+-  **Modo claro y oscuro**, activable desde la interfaz.
+-  **Soporte multilenguaje**: español, inglés y francés.
+-  **Test unitarios** para modelos, servicios y utilidades.
+-  **Diseño visual adaptado**, con CSS personalizado y pantallas dinámicas.
 
 ---
 
-## 🧱 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 - **Frontend**: JavaFX + FXML + CSS  
 - **Backend**: Java (POO), dividido por lógica de combate, selección y servicios  
@@ -40,20 +40,20 @@ Está pensada tanto para fans del universo Marvel como para estudiantes que dese
 
 ---
 
-## 🧪 Tecnologías Usadas
+## Tecnologías Usadas
 
 | Tecnología    | Descripción              |
 |---------------|--------------------------|
-| ☕ Java 17     | Lenguaje principal       |
-| 🎨 JavaFX 21  | Interfaz gráfica         |
-| 🗃️ SQLite     | Base de datos local      |
-| ⚙️ Maven      | Gestión de dependencias  |
-| 🧪 JUnit       | Pruebas automatizadas    |
-| 🎨 CSS        | Estilos personalizados   |
+|  Java 17     | Lenguaje principal       |
+|  JavaFX 21  | Interfaz gráfica         |
+|  SQLite     | Base de datos local      |
+|  Maven      | Gestión de dependencias  |
+|  JUnit       | Pruebas automatizadas    |
+|  CSS        | Estilos personalizados   |
 
 ---
 
-## 🕹️ Flujo de Uso
+## Flujo de Uso
 
 1. **Pantalla de inicio**  
    Acceso a login, registro o recuperación de contraseña.
@@ -78,7 +78,7 @@ Está pensada tanto para fans del universo Marvel como para estudiantes que dese
 
 ---
 
-## 🌍 Internacionalización
+## Internacionalización
 
 La aplicación cuenta con un sistema de traducción automática gestionado por archivos `.properties`, con los siguientes idiomas disponibles:
 
@@ -88,7 +88,7 @@ La aplicación cuenta con un sistema de traducción automática gestionado por a
 
 ---
 
-## 🎨 Diseño Visual
+## Diseño Visual
 
 <div align="center">
   <table>
@@ -132,7 +132,7 @@ La aplicación cuenta con un sistema de traducción automática gestionado por a
 
 ---
 
-## ⚙️ Instrucciones de Instalación
+## Instrucciones de Instalación
 
 1. Clona este repositorio:
    ```bash
@@ -149,18 +149,6 @@ La aplicación cuenta con un sistema de traducción automática gestionado por a
    ```bash
    mvn javafx:run
    ```
-
----
-
-## 🛤️ Roadmap (Mejoras Futuras)
-
-- Modo campaña narrativa con historia.
-- Editor de combates personalizados.
-- Simulaciones masivas automáticas (ej. 100 vs 100).
-- Modo espectador.
-- Mayor variedad de habilidades por personaje.
-- Sonido y música de combate.
-- Exportación de estadísticas post-combate.
 
 ---
 
